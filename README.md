@@ -4,6 +4,11 @@
 
 I am a Fullstack Developer with a keen eye for good design, yes I love designs a lot 😂. You can find my design playground [here](https://www.behance.net/frankarinze). 
 
+<b>Find me here</b> <br>
+<a href="https://www.behance.net/frankarinze" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174837.png" height="20" /></a>
+<a href="https://www.linkedin.com/in/devfrankrnz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" /></a>
+
+
 <!--
 **frankarinze/frankarinze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
