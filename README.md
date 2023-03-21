@@ -8,8 +8,6 @@ I am a Fullstack Developer with a keen eye for good design, yes I love designs a
 <a href="https://www.behance.net/frankarinze" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174837.png" height="20" /></a>
 <a href="https://www.linkedin.com/in/devfrankrnz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frankarinze&theme=merko)](https://git.io/streak-stats)
-
 <img src="https://github-readme-stats.vercel.app/api?username=frankarinze&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
