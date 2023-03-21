@@ -1,8 +1,8 @@
-### Hi there 👋.
+### Hi there 👋 I'm Frank!
 
 **About me**
 
-I am a Fullstack Developer with a keen eye for good design, yes I love designs a lot 😂. You can find my design playground [here](https://www.behance.net/frankarinze). 
+I am a Software Developer with a keen eye for good design, yes I love designs a lot 😂. Building inclusive Tech
 
 <b>Find me on behance and linkedin</b> <br>
 <a href="https://www.behance.net/frankarinze" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174837.png" height="20" /></a>
