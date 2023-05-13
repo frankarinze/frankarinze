@@ -8,7 +8,7 @@ I am a Software Developer with a keen eye for good design, yes I love designs a 
 <a href="https://www.behance.net/frankarinze" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174837.png" height="20" /></a>
 <a href="https://www.linkedin.com/in/devfrankrnz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=frankarinze&theme=default&show_icons=true&hide_border=true&count_private=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=frankarinze&theme=default&show_icons=true&hide_border=false&count_private=true" width="400">
 
 
 <!--
